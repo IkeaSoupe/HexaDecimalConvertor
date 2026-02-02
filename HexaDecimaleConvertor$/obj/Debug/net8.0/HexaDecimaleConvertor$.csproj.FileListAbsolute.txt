@@ -1,0 +1,14 @@
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\HexaDecimaleConvertor$\bin\Debug\net8.0\HexaDecimaleConvertor$.exe
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\HexaDecimaleConvertor$\bin\Debug\net8.0\HexaDecimaleConvertor$.deps.json
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\HexaDecimaleConvertor$\bin\Debug\net8.0\HexaDecimaleConvertor$.runtimeconfig.json
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\HexaDecimaleConvertor$\bin\Debug\net8.0\HexaDecimaleConvertor$.dll
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\HexaDecimaleConvertor$\bin\Debug\net8.0\HexaDecimaleConvertor$.pdb
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\HexaDecimaleConvertor$\obj\Debug\net8.0\HexaDecimaleConvertor$.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\HexaDecimaleConvertor$\obj\Debug\net8.0\HexaDecimaleConvertor$.AssemblyInfoInputs.cache
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\HexaDecimaleConvertor$\obj\Debug\net8.0\HexaDecimaleConvertor$.AssemblyInfo.cs
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\HexaDecimaleConvertor$\obj\Debug\net8.0\HexaDecimaleConvertor$.csproj.CoreCompileInputs.cache
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\HexaDecimaleConvertor$\obj\Debug\net8.0\HexaDecimaleConvertor$.dll
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\HexaDecimaleConvertor$\obj\Debug\net8.0\refint\HexaDecimaleConvertor$.dll
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\HexaDecimaleConvertor$\obj\Debug\net8.0\HexaDecimaleConvertor$.pdb
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\HexaDecimaleConvertor$\obj\Debug\net8.0\HexaDecimaleConvertor$.genruntimeconfig.cache
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\HexaDecimaleConvertor$\obj\Debug\net8.0\ref\HexaDecimaleConvertor$.dll
